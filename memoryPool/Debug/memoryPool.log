@@ -1,0 +1,7 @@
+﻿  main.cpp
+  memoryPool.cpp
+C:\Users\Administrator\source\repos\memoryPool\memoryPool\memoryPool.cpp(6,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\source\repos\memoryPool\memoryPool\memoryPool.cpp(90,49): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\Administrator\source\repos\memoryPool\memoryPool\memoryPool.cpp(108,49): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+  正在生成代码...
+  memoryPool.vcxproj -> C:\Users\Administrator\source\repos\memoryPool\Debug\memoryPool.exe
